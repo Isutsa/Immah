@@ -1,0 +1,8 @@
+code to calculate the area of a triangle
+include<iostream>
+using namespace std;
+int main(){
+int b,h,a;
+a=0.5*b*h;
+cout<<a;
+}
